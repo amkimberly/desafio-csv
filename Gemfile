@@ -6,6 +6,7 @@ ruby '3.0.0'
 gem 'bootsnap', require: false
 gem 'importmap-rails'
 gem 'jbuilder'
+gem 'pg'
 gem 'puma', '~> 5.0'
 gem 'rails', '~> 7.0.1'
 gem 'rubocop-rails', require: false
